@@ -11,6 +11,6 @@ fun main() {
                 sum += j
             }
         }
-        println("Case $i: $sum") 
+        println("Case $i: $sum")
     }
 }
